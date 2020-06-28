@@ -3,6 +3,7 @@ This shortcut menu plugin enables you to easily replace text labels.
 
 ## Requirement
 LabVIEW 2020
+
 Note: If you want to use this plugin in previous version, please use "Save for Previous Version" function.
 
 ## Install
